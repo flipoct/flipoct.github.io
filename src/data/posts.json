@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15",
+    "imageUrl": "/images/photo1.jpg",
+    "title": "첫 번째 포스트"
+  },
+  {
+    "id": 2,
+    "date": "2024-03-22",
+    "imageUrl": "/images/photo2.jpg",
+    "title": "두 번째 포스트"
+  },
+  {
+    "id": 3,
+    "date": "2024-06-05",
+    "imageUrl": "/images/photo3.jpg",
+    "title": "세 번째 포스트"
+  },
+  {
+    "id": 4,
+    "date": "2024-09-10",
+    "imageUrl": "/images/photo4.jpg",
+    "title": "네 번째 포스트"
+  },
+  {
+    "id": 5,
+    "date": "2024-11-28",
+    "imageUrl": "/images/photo5.jpg",
+    "title": "다섯 번째 포스트"
+  }
+]

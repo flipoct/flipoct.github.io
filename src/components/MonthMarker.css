@@ -1,0 +1,28 @@
+.month-marker {
+  position: absolute;
+  top: 0; /* Align with the axis */
+  transform: translateX(-50%);
+  z-index: 2; /* Above axis, below dots */
+}
+
+/* Vertical line for the month */
+.month-marker::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1px;
+  height: 8px;
+  background-color: #ccc;
+}
+
+.month-label {
+  position: absolute;
+  bottom: 10px; /* Position above the timeline line */
+  font-size: 0.75rem;
+  color: #888;
+  white-space: nowrap;
+  transform: translateX(-50%);
+  left: 50%;
+}
