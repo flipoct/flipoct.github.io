@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/camila/static/css/main.d8045f40.css",
+    "main.js": "/camila/static/js/main.25eb6b19.js",
+    "index.html": "/camila/index.html",
+    "main.d8045f40.css.map": "/camila/static/css/main.d8045f40.css.map",
+    "main.25eb6b19.js.map": "/camila/static/js/main.25eb6b19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8045f40.css",
+    "static/js/main.25eb6b19.js"
+  ]
+}
